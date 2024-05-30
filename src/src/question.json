@@ -1,0 +1,20 @@
+[
+   {
+    "id":1,
+    "question": "Where is the Railway Staff College located?",
+    "options": ["Pune","Allahabad","Vadodara","Delhi"],
+    "correctOption": "Vadodara"
+   } ,
+   {
+    "id":2,
+    "question": "The headquarters of the National Power Training institute is located in",
+    "options": ["Pune","Bhopal","Faridabad","Lucknow"],
+    "correctOption": "Faridabad"
+   },
+   {
+    "id":3,
+    "question": "The Indian Institute of Science is located at",
+    "options": ["Kerala","Madras","Bangalore","New Delhi"],
+    "correctOption": "Bangalore"
+   }
+]
